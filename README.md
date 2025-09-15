@@ -1,5 +1,3 @@
-![GitHub Avatar](https://avatars.githubusercontent.com/BlazOrazem?v=4)
-
 # Hi, I'm Blaž Orazem 👋
 
 **CTO | PHP & Laravel Expert | Winter CMS Plugin Creator**
