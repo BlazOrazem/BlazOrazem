@@ -1,4 +1,4 @@
-# Hi, I'm Blaž Orazem 👋
+# Hi, I'm Blaž Oražem 👋
 
 **CTO | PHP & Laravel Expert | Winter CMS Plugin Creator**
 
