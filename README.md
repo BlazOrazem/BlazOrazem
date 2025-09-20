@@ -1,6 +1,6 @@
 # Hi, I'm Blaž Oražem 👋
 
-**CTO | PHP & Laravel Expert | Winter CMS Plugin Creator**
+**CTO | PHP & Laravel Expert | Public Speaker & Lecturer | Winter CMS Plugin Creator**
 
 <p align="left">
   <a href="https://orazem.si"><img src="https://img.shields.io/badge/Website-orazem.si-blue?style=flat-square"></a>
