@@ -18,7 +18,7 @@ I thrive on building elegant back-end architectures, developing extensible plugi
 
 ## 💡⌨🚀 Favorite Projects
 
-Explore my plugins for Winter CMS and other open-source work on my [NumenCode GitHub profile](https://github.com/numencode):
+Explore my plugins for Winter CMS and other open-source work on my [NumenCode™ GitHub profile](https://github.com/numencode):
 
 - [wn-fundamentals-plugin](https://github.com/numencode/wn-fundamentals-plugin)
 - [wn-widgets-plugin](https://github.com/numencode/wn-widgets-plugin)
